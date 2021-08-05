@@ -10,7 +10,7 @@ A systray app that connects to Discord and sets your online status without a ful
 
 ## Usage
 You're not supposed to use this. If you still want to do so:
-- Download a Linux binary from the Releases page.
+- Download a Linux binary from the [Releases](https://codeberg.org/locness3/indicator-discord/releases) page.
 - Not using Linux? [You proprietary b*tch](https://yewtu.be/watch?v=lyXdE2h8uaU), you'll have to download and compile the code yourself.
 - Run the downloaded binary from the command line. This creates a configuration file and tells you to put your Discord user token in there.
 - Blindly trust this program and do what it asks you to do, then run it again, this time in the background/from your GUI.
