@@ -24,6 +24,6 @@ Things that could be done to improve this:
 - Allow setting a custom status, with a graphical input dialog as well
 
 ## Credits
-- This project uses the following librairies : [https://github.com/getlantern/systray](systray) by Lantern, [https://github.com/gorilla/websocket](websocket) from the Gorilla toolkit, [https://github.com/kirsle/configdir](configdir) by Noah Petherbridge. Thanks to everyone involved in them.
-- I learned a lot from [Go by Example](https://gobyexample.com), the [Tour of Go](https://tour.golang.org/welcome/1), and probably used code from various StackOverflow answers.$
+- This project uses the following librairies : [systray](https://github.com/getlantern/systray) by Lantern, [websocket](https://github.com/gorilla/websocket) from the Gorilla toolkit, [configdir](https://github.com/kirsle/configdir) by Noah Petherbridge. Thanks to everyone involved in them.
+- I learned a lot from [Go by Example](https://gobyexample.com), the [Tour of Go](https://tour.golang.org/welcome/1), and probably used code from various StackOverflow answers.
 - No credit goes to Discord, I really dislike that platform.
